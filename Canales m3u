@@ -1,0 +1,113 @@
+#EXTINF:0 tvg-logo="https://rd1.com.br/wp-content/uploads/2015/09/Divulga%C3%A7%C3%A3o1.jpg" group-title="",Globo Río
+http://138.197.137.197/loadbalance/boborj/chunks.m3u8?pxAuth=20Tu4PPZI1ExO5jN92Rdw9vJlQGlmwAX
+
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/JlpmDkplZ1c/maxresdefault.jpg" group-title="",Rede Record
+http://192.241.232.78/loadbalance/record2278/chunks.m3u8?pxAuth=3qNWgCMVTW0nnGwMr1NaCjPtBe6dA3v7
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Animal_Planet_%28Au%29_logo.svg/1200px-Animal_Planet_%28Au%29_logo.svg.png" grupo -title = "", PLANETA ANIMAL
+http://138.197.137.189/loadbalance/69735896668385822443/chunks.m3u8?pxAuth=mroe2psft80NYqFfbD1gZmYlpMegWhoP
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Gloob_logo.png/revision/latest?cb=20171005170625" group-title="",GLOOB
+http://192.241.232.122/loadbalance/gloob-hd/chunks.m3u8?pxAuth=s7iuMMIYrPPn9pKS0ld6Egqsa0r7prwA
+
+#EXTINF:0 tvg-logo="http://auvaromaia.com/wp-content/uploads/2017/06/Band-1-300x138.png" group-title="",Banda
+http://192.241.210.97/loadbalance/bandhd/chunks.m3u8?pxAuth=q6NaB5tFqZTEcOZ0VvwzEFE46lYfOHfw
+
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/cVohm-I25rs/maxresdefault.jpg" group-title="",SBT
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="", Caricatura del Evangelio
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=1956718878
+
+#EXTINF:0 tvg-logo="" group-title="", Dibujos animados retro
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8?wowzasessionid=459511733
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork/images/f/fe/CARTOON_NETWORK_logo.png/revision/latest?cb=20111206183320" group-title="",Cartoon Network
+http://138.197.137.189/loadbalance/cartoonnetwork/chunks.m3u8?pxAuth=IPRmxqAkoBcICQ9nNdg9HSBrrect1xQu
+
+#EXTINF:0 tvg-logo="" group-title="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/2000px-Nickelodeon_logo_new.svg.png",Nickelodeon
+http://192.241.232.78/loadbalance/nickelodeon/chunks.m3u8?pxAuth=sJrWczqRnr2Pk7I4eTxinOyD3GAhQBte
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/1200px-2015_Disney_Channel_logo.svg.png" group-title="",Disney Channel
+http://138.197.141.134/loadbalance/disneychannel/chunks.m3u8?pxAuth=FrKLWtTqjx4DzxFikDtWjxzYvzMrTHP7
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/all-about-everything/images/a/ac/NickJr.2009logo.png/revision/latest?cb=20161124210038" título-grupo ="",Nick Jr.
+http://138.197.141.116/loadbalance/disney-junior/chunks.m3u8?pxAuth=Fi7GRUfrzZ7aIV6Xq6DnMm85CVluQD5v
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="",Disney Jr
+http://138.197.141.116/loadbalance/disney-junior/chunks.m3u8?pxAuth=lLmK0hvHSKRc8E1Er0outXElLuvcJ2B6
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/boomerang-from-cartoon-network/images/8/85/Boomerang_logo_detail.png/revision/latest?cb=20170407205044" título-grupo ="",bumerang
+http://192.241.231.235/loadbalance/boomerang/chunks.m3u8?pxAuth=Ov77TcxYslzAIZf90H96QWbqCBQOHJN8
+
+#EXTINF:0 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2013/04/tooncast-hd-na-sky.png" group-title="",Tooncast
+http://192.241.232.39/loadbalance/tooncast/chunks.m3u8?pxAuth=h1Svg9lxYKvsKUoAf1QyBodFflP0ETvP
+
+#EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/mlp/images/7/76/Logo_Discovery_Kids.svg.png/revision/latest?cb=20140116151647&path-prefix=pt" título-grupo ="",DiscoveryKids
+http://192.241.232.39/loadbalance/discoverykids/chunks.m3u8?pxAuth=GJEYG5OWvqrCInvcj7b2n5rVq3bbe2f1
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title=" ",Disney XD
+http://138.197.137.150/loadbalance/disney-xd/chunks.m3u8?pxAuth=Cm90cl4SSkPZHrl3dkRAGAs6ipZyi7u9
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title=" ",Zorro
+http://165.227.223.203/loadbalance/aovivonatv7/tracks-v1a1/index.m3u8?pxAuth=E5hIBBbP71EMEt5TKQF4vRHwVRaTqIsB
+
+#EXTINF:0 tvg-logo="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/3552636/731px-FX-logo.svg_.png?1361471646" group-title=" ",FX
+http://138.197.137.47/loadbalance/fxhd/chunks.m3u8?pxAuth=Ac5GWNZJj1PSGN8LBF88MQwoJpw843mj
+
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/500px-Max_Prime_2012_logo.svg.png" group-title="",maxprime
+http://192.241.207.135/loadbalance/maxprime/chunks.m3u8?pxAuth=BmSihYgzp5fXg3vSdUDlJ2dj1dLfTKUb
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="",cinemax-hd
+http://192.241.232.122/loadbalance/cinemax-hd/chunks.m3u8?pxAuth=dT4r9RAL47QoN2rgtCgTEIApsL7cT5eB
+
+#EXTINF:0 tvg-logo="https://www.neotv.com.br/images/canais/maxup.png" group-title="",Max UP
+http://165.227.100.253/maxuphd/tracks-v1a1/index.m3u8?pxAuth=cxsM06mMtSOpLPdPfIKYi29zCS4qiZrG
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="",Max
+http://192.241.232.78/loadbalance/maxhd/chunks.m3u8?pxAuth=WvPaZN2oM42bEieJCE2gsaA6UasKIrfE
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCWohbLvEcyGa8pRTHi-Mt45rrOazy4RG9Gatfm7Ugah4-JwbQ" group-title="",HBO
+http://159.203.26.32/loadbalance/hbohd/chunks.m3u8?pxAuth=Mg2qgMDpsj6X0atAHWmDYHZh6Yvv86iN
+
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/500px-HBO2_logo.png" group-title="",HBO2
+http://192.241.231.235/loadbalance/hbo2hd/chunks.m3u8?pxAuth=zr6mMqBw8r8Lul5AkRpVzGqVNzWItMSS
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="",HBOPLUS
+http://138.197.137.189/loadbalance/hboplus/chunks.m3u8?pxAuth=MI6PFAIin8v0lcJADhfjcSqzDQi5Whyo
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="", familia HBO
+http://192.241.232.78/loadbalance/hbofamily/chunks.m3u8?pxAuth=6cTjJvxllJqFSCbk1kgEVL8nnpJtXzH2
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/640px-HBO_Signature.svg.png" group-title="", Firma de HBO
+http://192.241.232.122/loadbalance/28347661835572978857/chunks.m3u8?pxAuth=YsW4LqVjuIvlP3jZjTfHMobEfc7mhYV6
+
+#EXTINF:0 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112151057-canal-telecine-pipoca-hd.png" group-title="",Telecine Pipoca
+http://192.241.207.135/loadbalance/telecinepipoca/chunks.m3u8?pxAuth=YCivDw6E5nbAEc1DWb3UT04aGcNm3pIh
+
+#EXTINF:0 tvg-logo="http://vertv.net/wp-content/uploads/2016/02/FUN_fundo_claro.jpg" group-title="",Telecine Fun
+http://138.197.137.47/loadbalance/telecinefun/chunks.m3u8?pxAuth=rn5pk8Zl8f0X12G2WagaqjkJbWiijUKC
+
+#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fL4ZS0vnZko/TyMVGqz8EPI/AAAAAAAAAZE/vHKTx6vhbrI/s1600/TC+PREMIUM.jpg" group-title="",telecine premium
+http://192.241.207.135/loadbalance/telecinepremium/chunks.m3u8?pxAuth=NDRovo4DiatSRYcUyhXCrF13YvnTygFY
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/2/24/Telecineaction.jpg/revision/latest?cb=20140513153257&path-prefix=pt-br" título-grupo ="",Acción de telecine
+http://138.197.137.197/loadbalance/telecineaction/chunks.m3u8?pxAuth=UUrpnl5p0HNTRQWu7juhoC3oXCdvYToI
+
+#EXTINF:0 tvg-logo="http://clarotvlojaonline.com.br/img/channels/20151112154239-canal-telecine-touch.png" group-title="",Telecine Touch
+http://192.241.206.104/loadbalance/telecinetouch/chunks.m3u8?pxAuth=Gmqh1JxAoV2cWWm1ejcjvkNvK5tBODfH
+
+#EXTINF:0 tvg-logo="http://imagem.natelinha.uol.com.br/grande/canalspace.jpg" group-title="",Espacio
+http://165.227.100.253/space/tracks-v1a1/index.m3u8?pxAuth=ggXI491ehVyElaeN8kgmEmMHxGR5mwLn
+
+#EXTINF:0 tvg-logo="http://imagem.natelinha.uol.com.br/grande/megapix.jpg" group-title="",megapix
+http://138.197.141.134/loadbalance/megapixhd/chunks.m3u8?pxAuth=jZIEDB3JXkUeZSL8rbomu2H5M8wU6W6k
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo-paramountchannel.jpg" group-title="", Canal Paramount
+http://138.197.133.123/loadbalance/paramount/chunks.m3u8?pxAuth=aOdeiOGp5rtINzeSOYmfyugL3LMKPqGN
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/3/34/Universalchannel.jpg/revision/latest/scale-to-width-down/310?cb=20161213212328&path -prefix=pt-br" group-title="",Canal Universal
+http://138.197.137.150/loadbalance/universalch/chunks.m3u8?pxAuth=B4HSvRYqzFi8VhyjYUCQqNcgM2pmIZXc
+
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-pS0f0_-xW1g/VwF-vUphfTI/AAAAAAAABQk/9lDJoUqGsy8yakuZmbDtUqybp2n41Zjcw/s320/tcm-en-vivo.jpg" group-title="" ,MTC
+http://159.203.26.32/loadbalance/tcm/chunks.m3u8?pxAuth=d2MrfLIDtMQQyJR56X5asGYAxyMSMXRT
